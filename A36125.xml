@@ -1,0 +1,433 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Discovery of one sham more design'd against three of His Majesties justices of the peace for the county of Surrey.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36125</idno>
+            <idno type="STC">Wing D1644</idno>
+            <idno type="STC">ESTC R944</idno>
+            <idno type="EEBO-CITATION">12264931</idno>
+            <idno type="OCLC">ocm 12264931</idno>
+            <idno type="VID">57990</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36125)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57990)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 181:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Discovery of one sham more design'd against three of His Majesties justices of the peace for the county of Surrey.</title>
+               </titleStmt>
+               <extent>17 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benj. Tooke,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication taken from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Libel and slander --  England.</term>
+               <term>Justices of the peace --  England --  Surrey.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57990:1"/>
+            <pb facs="tcp:57990:1" rendition="simple:additions"/>
+            <p>A DISCOVERY OF <hi>One Sham more:</hi> Deſign'd againſt three of His Majeſties Juſtices of the Peace For the County of Surrey.</p>
+            <figure>
+               <figDesc>depiction of vase of flowers</figDesc>
+            </figure>
+            <p>Printed for <hi>Benj. Tooke,</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:57990:2"/>
+            <pb n="3" facs="tcp:57990:2"/>
+            <head>A DISCOVERY OF <hi>One Sham more, &amp;c.</hi>
+            </head>
+            <p>IT cannot but very much afflict the minds of all ſober and good men, that Forgeries and Subornations have been of late ſo fre<g ref="char:EOLhyphen"/>quently practiſed that Perjury ſeems to become a Trade, which any indigent profligate man, who has nothing left but his Soul to diſpoſe of, may as his laſt Refuge plauſibly ſet up for. By the original Laws of Society, every man has ſuch a Right to Truth, and his good Name, ſo long as he does nothing to forfeit it, is ſo much his Property, that it is an act of high Injuſtice for any one to endea<g ref="char:EOLhyphen"/>vour by a falſe Accuſation to deprive him of it. But of all Attempts of this kind none are of ſo pernicious conſequence as thoſe that are level'd againſt the Eſteem and Reputation of perſons of Quality and Magiſtrates, and thereby tend to weaken that Authority by which they are rendred uſeful and ſerviceable to the Publick. This I have ſaid in ſhort, and without ſpinning it to the length of a ſolemn Pre<g ref="char:EOLhyphen"/>face, only to point the Reader to the Nature of what he is to expect in the following Papers, which contain a villanous Deſign laid to ſtab the Reputation of three of His Majeſties Juſtices of the Peace for the County of <hi>Surrey,</hi> and through their ſides the Government it ſelf; a Plot hatch'd by one who has ſince acknowledged himſelf to be a Rogue, and nurſed up by others who are concerned to wipe off the juſt ſu<g ref="char:EOLhyphen"/>ſpicion of their being ſuch, which with ſome not uncharitable men they do at preſent lie under. I for my part ſhall do no more than the duty of an Hiſtorian, give you the Names and Characters of the per<g ref="char:EOLhyphen"/>ſons concern'd, ſet down matter of Fact, and publiſh Letters whoſe Originals I have by me to warrant it, with ſuch neceſſary Connexions, Tranſitions and Remarks as may give the Reader a clear Proſpect of ſo much of the Contrivance as has as yet come to light: Which take as followeth.</p>
+            <p>One <hi>John Fitz-Gerrald,</hi> an <hi>Iriſh</hi> man, and formerly a Romiſh Prieſt, profeſſing himſelf to have forſaken the Errours and Superſtitions of that Church, came into <hi>England</hi> upon pretence of making ſome Diſco<g ref="char:EOLhyphen"/>very concerning the Plot, which was ſaid to be carrying on in <hi>Ireland</hi> by the Popiſh Faction, and was one of them who came to the Bar of
+<pb n="4" facs="tcp:57990:3"/>
+the Honourable Houſe of Commons, when divers other <hi>Iriſh</hi> men did upon the ſame Account there appear. This <hi>Fitz-Gerrald</hi> living here a conſiderable time without ſuch ſupplies as it is probable he might ex<g ref="char:EOLhyphen"/>pect, ran deeply in Debt to his Landlord for Diet and Lodging, and up<g ref="char:EOLhyphen"/>on default of payment was arreſted and impriſoned in the Marſhalſea in <hi>Southwark.</hi> Some kind of Acquaintance it appears he had contract<g ref="char:EOLhyphen"/>ed, though by what means I know not, with Mr <hi>Sclater,</hi> Mr. <hi>Sylveſter,</hi> Nonconformiſt Miniſters, and other Separatiſts; from whom he received (upon what ſcore I leave the Reader to judg) ſeveral Contributions at ſuch ſeaſons and in ſuch meaſures as they thought fit. But whe<g ref="char:EOLhyphen"/>ther his Allowance from them were too ſcanty, or was wholly with<g ref="char:EOLhyphen"/>drawn, certain it is, that having Acquaintance with one Mr. <hi>Iſaac Cooper,</hi> formerly a Servant to Dr. <hi>Tongue,</hi> he wrote and ſent to him the following Letter,</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Mr. Cooper.</salute>
+                  </opener>
+                  <p>
+                     <hi>MY Confignement obſtructs me to ſtur in my owne Affairs; Wherefor I requeſt you to procure ſome Loyall Majiſtrate unto whom I could confide to diſcover ſome impartant matters (ſatisfactorie to the King and Countrie when reveald) on ſuch reaſonable Tearms as I ſhall propoſe, I beſeech you faile me not herein, but come to me with all convenient ſpeed who; Am Sir</hi>
+                  </p>
+                  <closer>
+                     <signed>Your very humble Servant <hi>John Fitz Gerrald.</hi>
+                     </signed>
+                     <dateline>In the <hi>Marſhalſea</hi> of <hi>Southwark,</hi> 
+                        <date>
+                           <hi>September</hi> the 21. 1681.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>I Need not prompt the Reader to take notice of his peculiar way of phraſing, <hi>viz. Loyal Magiſtrate</hi> and <hi>upon reaſonable Terms;</hi> intimating plainly that he was inclinable to be on the Loyal ſide, if he might thereby procure his Enlargement or have other Encouragement; but that he would not diſcover any thing without hire.</p>
+            <p>Well, this Letter was communicated to a Perſon of great Quality and by him tranſmitted to Mr. <hi>Reading,</hi> Mr. <hi>Daniel</hi> and Mr. <hi>Rich,</hi> Gentlemen of known Prudence and Integrity, and to whom as being not only in the Commiſſion of the Peace for the County, but alſo living in the Neigh<g ref="char:EOLhyphen"/>bourhood, it was thought moſt proper to commit the buſineſs of ta<g ref="char:EOLhyphen"/>king his Information. Accordingly on <hi>Friday</hi> the laſt of <hi>September,</hi> they went to him in the <hi>Marſhalſea,</hi> and ſhewing him his Letter to <hi>Cooper,</hi> he own'd it to be his Hand-writing. Hereupon they ask'd him, <q>whe<g ref="char:EOLhyphen"/>ther he was ready to make any ſuch Diſcovery, as he therein men<g ref="char:EOLhyphen"/>tion'd?</q> He replyed, <q>It was not a ſeaſonable time, becauſe Sir <hi>James Butler</hi> kept Court there that day, and many people being about, great notice might be taken, which he deſired might be avoided.</q>
+            </p>
+            <pb n="5" facs="tcp:57990:3"/>
+            <p>What his private reaſon was, why he would have the taking of his Information conceal'd, they being Gentlemen more wiſely tenacious than to divulge the matter to a Croud, I leave the Reader the ſame freedom of gueſſing with my ſelf; but this I know, that one of the Ju<g ref="char:EOLhyphen"/>ſtices thereupon fairly told him, <q>that he would do well to take his own time and draw up what he had to diſcover in writing under his own hand at his leiſure, and they would come any other time that<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he would appoint to receive it,</q> Their condeſcention herein he ſeem<g ref="char:EOLhyphen"/>ed very much to admire and prayed that it might be the <hi>Monday</hi> fol<g ref="char:EOLhyphen"/>lowing. But before their going away <hi>Fitz-Gerald</hi> began to ſpeak faintly concerning Dr. <hi>Tongue,</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>that he could diſcover ſomething of him; but ſays he again preſently, correcting himſelf, <q>he is dead, and why ſhould I be believed of him?</q> He added further, <q>that he could give an ac<g ref="char:EOLhyphen"/>count of his coming from <hi>Dunkirk,</hi> and who they were that ſent him<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> into <hi>Ireland</hi> about the Letters in the Wall.</q> Upon this the Juſtices ſaid to him, <hi>Mr.</hi> Fitz-Gerald, <hi>Draw up in writing what you can diſcover, but withal be careful you charge no man wrongfully, Remember there is a day appreaching wherein we muſt all give an account of our doings and ſayings.</hi>
+            </p>
+            <p>Thus you ſee, they treated him with a Can<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or becoming Gentle<g ref="char:EOLhyphen"/>men and a ſenſe of Religion befitting Divines, for which he himſelf thank'd 'em and repeated his requeſt, that they would come again on <hi>Monday</hi> following, by which time his Information ſhould be ready; upon which they took leave of him. But as they were going down ſtairs, he begg'd of them for the Lords ſake to pity his poor condi<g ref="char:EOLhyphen"/>tion and give him ſome relief for he was ready to ſtarve. To which when Mr. <hi>Daniel</hi> replyed, <q>that though they commiſerated his condi<g ref="char:EOLhyphen"/>tion and would give order to Mr. <hi>Lowman</hi> the keeper of the Priſon,<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that he ſhould not be famiſh'd,</q> yet they thought it not proper to give him any Money. <hi>Fitz-Gerald</hi> ſaid, <hi>Do you think, Gentlemen, if you ſhould beſtow your Charity I ſhould tax you for ſubornation?</hi> and Mr. <hi>Daniel</hi> replied again, <hi>we will not truſt you.</hi>
+            </p>
+            <p>But before I go on directly to the matter, 'tis neceſſary I make only a ſhort digreſſion thereby to give the Reader ſome light into the ſtory of the Wall, which he may collect from the following Depoſition of Mr. <hi>Cooper</hi> before Juſtice <hi>Warcup</hi> in the preſence of three Witneſſes.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="deposition">
+                        <head>The Information of <hi>Iſaac Cooper</hi> late Servant to Dr. <hi>Tonge</hi> deceas'd, taken upon Oath.</head>
+                        <opener>
+                           <dateline>Middx. ſs.</dateline>
+                        </opener>
+                        <p>I Do hereby acknowledg, and am willing to depoſe upon Oath, that when I asked Mr. <hi>John Fitz-Gerald</hi> who they were, who pro<g ref="char:EOLhyphen"/>moted his going for <hi>Ireland</hi> to diſcover thoſe Papers he pretended were Concealed in the Wall of the Convent of <hi>Galbally;</hi> He replyed, He
+<pb n="6" facs="tcp:57990:4"/>
+would diſcover the Contrivers, and mentioned my <hi>L.</hi> of <hi>E.</hi> Sir <hi>W. W.</hi> and my Lady <hi>R. [their Names are at length in the Original]</hi> and that it was a meer Contrivance. In witneſs I ſubſcribe my hand</p>
+                        <closer>
+                           <signed>Iſaac Cooper.</signed>
+                           <dateline>
+                              <hi>Jurat.</hi> 
+                              <date>31 <hi>die Octobris</hi> 1681.</date>
+                           </dateline>
+                           <signed>cor. me Edmond Warcupp.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Let the Reader hereupon make what judgment he pleaſes concern<g ref="char:EOLhyphen"/>ing <hi>Fitz-Gerald</hi>'s veracity, I return to the place where I left off. The Juſtices having parted with him in the manner before-related, not without expectation of ſome Diſcoveries he would make on <hi>Monday;</hi> He, inſtead of drawing up any Information, in probability the ſame day contriv'd, but manifeſtly on the next day ſent two Letters, one to a Perſon whom he calls <hi>Madam Jordan,</hi> with another encloſed to Mr. <hi>Slater</hi> a Non-conformiſt Miniſter, which are as followeth,</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>October</hi> the firſt, 1681.</date>
+                     </dateline>
+                     <salute>Madame Jordane</salute>
+                  </opener>
+                  <p>I <hi>Have to lett you underſtand that ſince you honoured me with your laſt viſit, I have been putt to a very great Terror, For yeſterday here were three Juſtices of the Peace with me to put me to A plunge A bout my Correſ<g ref="char:EOLhyphen"/>pondencie with the Reverend Dr.</hi> Tonge, <hi>deceaſt, propounded many que<g ref="char:EOLhyphen"/>ſtions to me of him, And others, and promiſed if I ſhould reflench from my Teſtimonie of the Popiſh Plott, And helpe to accuſe the proteſtants with it they would have releaſed me from my Impriſonment, And likewiſe procure A pardon from the King, And continuall Maintenance. But when I told them that I had noe more to ſay to that matter then what I have Allrea<g ref="char:EOLhyphen"/>dy declared to the King, Councill, And Parliament, And they ſaid in An<g ref="char:EOLhyphen"/>ſwer to that that I ſhould deepely repent for not Imbraceing their proffer for I ſhould be Compelld by other means to Anſwer to their expections. And thereupon they ſayd that they would Come on munday next, which Cannot be Immadgined how dreadfull it is to me; therefore I would humbly re<g ref="char:EOLhyphen"/>queſt you to ſhew theſe lines to Mr.</hi> Slater, <hi>Mr.</hi> Syllueſter <hi>And others to ſee if they Could procure me my Libertie ſpeedily that I may ſhelter my ſelfe from their hands of Crueltie which I expect noe l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tter from them therefore I requeſt moſt humbly that if pittie or mercie be in the harts of any Chriſtians to lett mee Meete with it for otherwiſe my Life is like to be made a ſacrifice for the proteſtant Cauſe, for Gods ſake deare Lady Lett me heare ſpeedily from if any Chriſtian be to be had for now it would be very ſeaſonable, Madam I am almoſt ſtarved for want of foods,</hi>
+                     <pb n="7" facs="tcp:57990:4"/>
+                     <hi>lett not the Bearer know the Contents of this letter which is now all from your faithfull friend untill death,</hi>
+                  </p>
+                  <closer>
+</closer>
+                  <postscript>
+                     <p>I pray deliver the Incloſed to Mr. <hi>Slater.</hi>
+                     </p>
+                     <closer>
+                        <signed>John Fitz Gerrald.</signed>
+                     </closer>
+                  </postscript>
+                  <postscript>
+                     <p>I deſire to be hartily rememberd to Mr. <hi>Jordane,</hi> not forgetting your ſweete ſelfe and the verteous Lady that was with you here laſt.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Reverend Mr. <hi>Slater,</hi>
+                     </salute>
+                  </opener>
+                  <p>I <hi>Have ſent you to Acquaint with my diſtreſſe about</hi> 12 <hi>dayes a goe, In hopes of your Charitable Commiſeration, But I am now vnder very dif<g ref="char:EOLhyphen"/>ficult Circumſtances then ever I was therefore Sir I pray pittie me if you Judg it fitt, for I am Allmoſt famiſht, And likewiſe Afraid of my life, I doe humbly Crave your Anſwer by Madam</hi> Jordane <hi>unto whom I writt of my Circumſtance more att large which is all att preſent from Sir</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <date>8<hi>
+                              <hi rend="sup">beris</hi>
+                           </hi> die p<hi rend="sup">•</hi>. 8 1.</date>
+                     </dateline>
+                     <signed>Your very humble Servant, <hi>John Fitz Gerrald.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Who this Madam <hi>Jordan</hi> is I know not, nor have any acquaintance with Mr. <hi>Slater;</hi> but 'tis manifeſt that they were both known to him, that they had given him hopes of procuring his Liberty, and that he thought the moſt likely way to prevail with them to expedite that Affair was to make diſmal Outcries of the danger he might pretend to be in for the Proteſtant Cauſe; and to blacken the Reputation of theſe three Loyal Magiſtrates. For, when he had been ſo ingenuouſly and fairly dealt with by theſe Gentlemen, what elſe ſhould move this Cai<g ref="char:EOLhyphen"/>tiff immediately to load with ſo many Reproaches Perſons of ſuch un<g ref="char:EOLhyphen"/>ſpotted Integrity as they are? Did ever any profeſſed Actor upon a Stage alter the Muſcles of his Face, or counterfeit a turn of his hu<g ref="char:EOLhyphen"/>mour, in leſs time than this man tack'd about his Conſcience? No ſooner were their Backs turn'd upon him, but he wrack'd his Inven<g ref="char:EOLhyphen"/>tion to faſten the greateſt infamy in the World upon them. But his Liberty was that which he aimed at, and as it appears he was reſolved to be a Proteſtant on their ſide, who ſhould accept the ſervice of his Conſcience to make a Purſe for the procuring it. Now I appeal to all men who have any Reputation left them to loſe, whether they are not concern'd to expreſs a juſt deteſtation of all ſuch palpable and per<g ref="char:EOLhyphen"/>nicious Forgeries, and of all thoſe that countenance them? Who can be ſecure of his Credit, if it ſhall be in the power of a fellow who will ſell his Soul for 20 <hi>l.</hi> and freſh Air, to impair it? But I am confident the honeſt Reader's Indignation at ſuch foul practices will out-go any words which I can uſe to expreſs mine by. To proceed therefore,</p>
+            <p>
+               <pb n="8" facs="tcp:57990:5"/>
+               <hi>Fitz-Gerald,</hi> whether his conſciouſneſs of having injured theſe Gentlemen in ſo high a manner did really ſtrike that terrour into him, which he only pretended in his Letter; or whether he flatter'd himſelf with hopes that if he could carry it cleverly on both ſides, he ſhould gain his Releaſment by one means or other; whatever his Reaſon was, he endeavoured to decline the Viſit of theſe Gentlemen, upon ſome ſlight pretences mentioned in the following Letter, which he wrote to Mr. <hi>Rich</hi> on the third of <hi>October,</hi> the day he appointed for the Juſtices coming to take his Information. The Letter was in theſe words:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Worſhipfull Sir,</salute>
+                  </opener>
+                  <p>
+                     <hi>HAveing Conſidered ſince you were here laſt, of ſeveral inconvenien<g ref="char:EOLhyphen"/>cies: that I may be made ſubject to by your Appearing here this day according to Appointment, Impediates me in ſhewing my ſelfe in it ſoe publikely, for it is not to be Immadgined what notice was taken of three Juſtices to Come to me of a Court day and it renders me very ſuſpitious: therefore I thought fitt to requeſt you not to Come hither: but to Some Tavern, or privat place heard by which will be more Convenient then to Come to this publick place where I am expoſed to the Cenſure of all per<g ref="char:EOLhyphen"/>ſons here I am Certain Mr.</hi> Lowman <hi>will upon your word lett me waite of you onely ſending your man with a note to him requeſting the ſame, And alſo Aſhureing him of my ſafe return, Sir Moreover I have to lett you underſtand that though I deſired to ſpeake with your Worſhip by the Correſpondencie you were pleasd to Creat with me thorow the means of Mr.</hi> Cooper <hi>I did not ſend for two Juſtices more Neither ſhall either ſpeake or write before any perſon, or perſons, but you, and one more that may be a witneſſe on both ſides: which if you are pleasd to yeild to, And to the place of Meeteing above propoſed I ſhall waite of you with all humilitie, therefore Sir be pleasd to let me heare your Anſwer herein, And I ſhall Continue</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <date>Die 30 8<hi rend="sup">bris,</hi> Anno Domini 1681.</date>
+                     </dateline>
+                     <signed>Worſhipful Sir, Sir your moſt humble Servant <hi>John Fitz Gerrald.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Mr <hi>Rich</hi> himſelf having very well replied to this Letter, I think my ſelf not concern'd to make any Remarks upon it, but ſhall inſert the the Reply as it was pen'd by him, after I have told the Reader that Mr. <hi>Rich</hi> having extraordinary buſineſs that kept him from home that day, both miſſed of the Letter, and failed in the meeting, but that the other two Juſtices, Mr <hi>Reading</hi> and Mr. <hi>Daniel,</hi> not knowing of any ſuch Letter ſent to Mr. <hi>Rich,</hi> went to <hi>Fitz-Gerald</hi> and asked him if his In<g ref="char:EOLhyphen"/>formation were ready; To whom he anſwered, It was not, neither would he be examined by them; carrying himſelf very rudely and inſolentiy towards them. Mr. <hi>Rich</hi>'s Anſwer to <hi>Fitz-Gerrald</hi> the next morning was this,</p>
+            <pb n="9" facs="tcp:57990:5"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>October</hi> the 4th. 1681.</date>
+                     </dateline>
+                     <salute>Mr. <hi>Fitz-Gerrald,</hi>
+                     </salute>
+                  </opener>
+                  <p>
+                     <hi>I Came home Late laſt night, and found your Letter directed to me, which ſurprizes me in ſeveral points, and makes me jealous, that you are employ'd by the Jeſuits to do His Majeſty and His Subjects Hurt, rather than any Good.</hi>
+                  </p>
+                  <p>
+                     <hi>When Mr.</hi> Reading, <hi>Mr.</hi> Daniel, <hi>and my ſelf were with you on</hi> Friday <hi>laſt, it was occaſioned by your Letter to one Mr.</hi> Cooper, <hi>(whom we nei<g ref="char:EOLhyphen"/>ther have ſeen or heard of, until you declared who he is) In which you deſired to communicate to ſome Loyal Magiſtrate important matters to the ſervice of the King and Countrey. But when we were with you, we thought it not convenient to ask you any Queſtions; but adviſed you in the fear of God, to do no man wrong, but faithfully and truly to draw up in Writing, what you had to diſcover, without reſpect of perſons; which you promiſed ſhould be ready againſt</hi> Monday <hi>at four in the afternoon. But by your Letter to me, you would inſinuate, as if you were in ſome danger, and do therefore deſire, I would correſpond with you only. I do here declare, That in caſe you have any thing to be made known by way of Information, I will not take it, but in the preſence of ſome one or more Juſtices of the Peace. For I pray where lies any danger for you to reveal the truth? which we did moſt ſeriouſly admoniſh you to do. As for ſending for you to a Tavern, or other private place, I am againſt that;</hi> I am for doing all things above-board. <hi>And therefore if you have any Jealouſie, make your diſcovery to ſome other Juſtices. We ſought not the Employment.</hi>
+                  </p>
+                  <p>
+                     <hi>You are very bold to ſay in your Letter, I have created Correſpondency with you through the means of</hi> Cooper; <hi>I knew neither of you, nor ever heard of him, or of you, further than at the Commons Bar; Therefore this ſeems to me at firſt Sight to be a Popiſh Sham-trick. Sir, In caſe you think fit to draw up any thing which is juſt and true, by way of Informa<g ref="char:EOLhyphen"/>tion, and which as you ſaid, ſhould have concurrent Teſtimony with it; if you ſend for any other Juſtice of the Peace I'le aſſiſt him if there be oc<g ref="char:EOLhyphen"/>caſion; but to do it alone with you, or to make Terms, as</hi> Cooper<hi>'s Letter you ſent him has it, I'le have nothing to do with you.</hi> An honeſt man does not make bargains to ſpeak truth; <hi>You muſt apply your ſelf to ſome perſons, that are more zealous for Subornation, for I abominate the practice: and therefore expect not to correſpond with me.</hi>
+                  </p>
+                  <closer>
+                     <signed>Yours <hi>P<hi rend="sup">r.</hi> Rich.</hi>
+                     </signed>
+                  </closer>
+                  <postscript>
+                     <p>I have deſired Mr. <hi>Lowman</hi> to read this Letter with you; Do you ſa<g ref="char:EOLhyphen"/>tisfie him in <hi>what one thing</hi> I have had any Correſpondency with you or with your <hi>Cooper,</hi> To which I expect your Anſwer.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <pb n="10" facs="tcp:57990:6"/>
+            <p>Mr. <hi>Lowman</hi> having read this Letter with <hi>Fitz-gerrald,</hi> preſently ask'd <hi>Fitz-gerrald</hi> whether he could charge Mr. <hi>Rich,</hi> or either of the other Juſtices that came to examine him, with any Correſpondency held with him, or any dealing or tampering? He replyed, no, he could not; but ſaid he would write an Anſwer to this Letter, and appeared very angry that it ſhould be ſent unſealed, and Mr. <hi>Lowman</hi> be deſired to read it.</p>
+            <p>This Mr. <hi>Rich</hi> did on purpoſe to ſhew that he would have nothing to do with him privately and without Witneſs, which was what him<g ref="char:EOLhyphen"/>ſelf deſired in his Letter; but Mr. <hi>Lowman</hi> it ſeems was not a Witneſs of that ſort which he intended, and from thence aroſe his paſſion upon a circumſtance which ſo ill comported with his deſign. For not only from hence, but alſo from a clauſe in the concluſion of his foregoing Letter to Madam <hi>Jordan,</hi> wherein he deſires her not to let the Bearer know the Contents of it; from both put together, I ſay, it is clear that he intended to hold a Correſpondency, as he calls it, that is, covertly to treat with his diſſenting Acquaintance and with ſome Loyal Magi<g ref="char:EOLhyphen"/>ſtrate at the ſame time, that ſo he might feel which of the two would bid higheſt to make a Diſcoverer on their ſide. But theſe honeſt Gentle<g ref="char:EOLhyphen"/>men, you ſee, refuſed to give him the leaſt encouragement of any Re<g ref="char:EOLhyphen"/>ward of any kind, but only according to their Duty ſhewed themſelves ready at his own time to receive any ſuch Information as he ſhould vo<g ref="char:EOLhyphen"/>luntarily and without a Bribe give in to them. Whereas on the other ſide, this Letter which contain'd ſuch black Calumnies upon three Gentlemen whom he ſays to be Juſtices of the Peace, though he crafti<g ref="char:EOLhyphen"/>ly conceals their Names, was cheriſhed by Madam <hi>Jordan</hi> and Mr. <hi>Slater;</hi> and though they were bound by the Laws of Juſtice and Cha<g ref="char:EOLhyphen"/>rity to have conveyed this Letter forthwith to ſome Magiſtrate whom they might expect to be ſo well-affected to the Government, and ſo tender of the Reputation of Gentlemen, as inſtantly to have went to <hi>Fitz-Gerrald,</hi> and learnt from him who theſe Juſtices were, and then have communicated the Letter to them, that if they were innocent they might have a ſpeedy opportunity to vindicate themſelves; inſtead of this, they ſhewed the Letter about to their own Friends and Con<g ref="char:EOLhyphen"/>fidents only, who made frequent Tranſcriptions of it, and long brooded upon it. Nay, to ſhew how willing they were to believe, or how much concern'd to have the Letter true, by order from the ſuperiour Juncto, a Committee of four perſons, <hi>viz.</hi> Mrs <hi>Jordan,</hi> Mr. <hi>Parkhurſt</hi> a Bookſeller, one Mr. <hi>Serjeant,</hi> and Mr. <hi>Evans</hi> at the <hi>Bridg-foot</hi> in <hi>Southwark,</hi> on the 13th of <hi>October</hi> went to him in the <hi>Marſhalſea,</hi> to know if he would abide by that Letter, and ſatisfie them who the Ju<g ref="char:EOLhyphen"/>ſtices were which he accuſed therein; and upon <hi>Fitz-gerrald</hi>'s owning all the Contents of it, and naming the Juſtices he meant in it, 'tis more than probable he received from them Promiſes of Enlargement, as appears by the following Letters written to Mr. <hi>Parkhurſt</hi> and Ma<g ref="char:EOLhyphen"/>dam <hi>Jordan.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="11" facs="tcp:57990:6"/>
+                  <opener>
+                     <dateline>In the <hi>Marſhalſeas</hi> of <hi>Southwark</hi> 
+                        <date>October the 17th. 1681.</date>
+                     </dateline>
+                     <salute>Mr. <hi>Parkurſt,</hi>
+                     </salute>
+                  </opener>
+                  <p>
+                     <hi>SIR, I humbly deſire you would be pleasd to lett me heare from you the Accompts of your proceedings in my Affairs as to, the getting my Libertie for me, Sir if I ſpeake either Impertinent or Impurtunat be pleasd to impute it to my Tedious and diſtreſſed Impriſonment, And Ma<g ref="char:EOLhyphen"/>dam</hi> Jordan, <hi>And you are all the friends, or dependencie I have, And being very deſtitude of any releefe for ſo long a time As that I am very Cold by reaſon that I am very Bare Clad, dear Sir, Therefore I pray Commiſerat me if you have got any thing for my preſent releefe I be<g ref="char:EOLhyphen"/>ſeech you ſend it to me; and I deſire you would write to me by the bearer which is all att preſent with my beſt wiſhes to your ſweete ſelfe, And Madam</hi> Jordane, <hi>I remaine Sir</hi>
+                  </p>
+                  <closer>
+                     <signed>Your very humble Servant, <hi>John Fitz Gerrald.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>In the <hi>Marſhalſeas</hi> of <hi>Southwark,</hi> 
+                        <date>October the 19th. 1681.</date>
+                     </dateline>
+                     <salute>Madam <hi>Jordane,</hi>
+                     </salute>
+                  </opener>
+                  <p>
+                     <hi>AND dear friend I am every Minute longing to heare the evint of your proceedings with Mr.</hi> Parcurt <hi>and the reſt of your friends In your efficatious prevaileings for takeing me out of this miſerable place, As I may In ſeverall reſpects call it; whereof the firſt And Cheifeſt reſpect is: that I am every day troubled with the enemies of the Proteſtant Cauſe, tempting me to diſowne what I have Affirmed before the King, Councill, And Parliament; And not onely tempting me but alſo Treatening if I doe not diſowne it. It ſhall be worſe for me. For they Tell me; they will Compell me to doe it, therefore I ſay it would proue prudence, And Charitie In theſe friends that were with you when here laſt, to procure me my Liber<g ref="char:EOLhyphen"/>ty, prudence for the forgoeing reaſon, and Charitie for the premiſes Con<g ref="char:EOLhyphen"/>ſidered I Am All moſt ſtarved, for both Cold, And diſtreſſes, And allſoe much reflected upon by reaſon of thoſe evill ſperits that haunts me here, as I gave you an Account of: Mr.</hi> Lowman <hi>told me noe Longer agoe then this Morning, that if I doe not take a ſpeedy Courſe to get my Liber<g ref="char:EOLhyphen"/>tee, And pay him what I owe him, he would turn me to the Common ſide where if I goe I ſhall Certainely Periſh, to prevent which, And other In<g ref="char:EOLhyphen"/>conveniencies I haue no other hopes but your ſweet ſelfe, And your friends. Therefore I beſeeche you lett me hear from you and them ſpeedily, for feare of being ſurpriſed unawarſe And as I have prouen hitherto Stable</hi>
+                     <pb n="12" facs="tcp:57990:7"/>
+                     <hi>And ſtedfaſt to my Teſtimonie, and profeſſion without relapsing or refleng<g ref="char:EOLhyphen"/>ing upon the Account of it, I humbly deſire, And requeſt you and all that are profeſſors, and reall Lovers of true Chriſtianitie, And Charitie, not to ſuffer me to ley under this grievous burthen noe Longer, for I am not able to beare it any more, therefore lett religion, be made manifeſt by faith, And faith by works In ſuch a meaſure, As that I may haue noe reaſon to ſtumble but ſtick Cloſe to my Toke as euer I have done ſince I came to</hi> England, <hi>which is all from your loueing friend and humble ſeruant as I may</hi>
+                  </p>
+                  <closer>
+                     <signed>John Fitz Gerrald.</signed>
+                  </closer>
+                  <postscript>
+                     <p>I pray Madam be pleaſd to Anſwer me ſpeedily, for Godſake Conſider my Condition And my heavie grieuances that I ly under for the prote<g ref="char:EOLhyphen"/>ſtant Cauſe which otherwiſe I need not. I earneſtly deſire to be remembe<g ref="char:EOLhyphen"/>red to Mr. <hi>Jordane,</hi> And Mr. <hi>Reeues,</hi> And to the Laydys both that were with you here Mr. <hi>Reeues</hi> was here on <hi>Sunday</hi> night And left me a Note of Directions where I might Correſpond with him but very unhapily I loſt the Not, And I requeſt you to ſend me an other, but Dear Madam I pray faile not In Anſwering this, or I know not what miſcheefe may In ſue if you <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> not.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>In the <hi>Marſhalſeas</hi> of <hi>Southwark,</hi> 
+                        <date>October the 21ſt, 1681.</date>
+                     </dateline>
+                     <salute>Mr. Parcurſt,</salute>
+                  </opener>
+                  <p>
+                     <hi>SIR, I was In great hopes of my Libertie, when I ſeen you had A hand in It, But I begin to deſpaire of it by reaſon of your delays, And I am Certaine if you had ſtured In it, It had been done ſince you were heare laſt, but hapily you will ſay you durſt not meddle In it But Alas? Notwithſtanding the great profeſſion of Religion that ſeve<g ref="char:EOLhyphen"/>rall perſons makes yet I Could not meete with ſuch another ſufferer A<g ref="char:EOLhyphen"/>mongſt you all as my ſelfe for I haue Left a Certaine Maintenance And being I have Incurred the diſpleaſure of my relations and Parent, I haue Expoſed my life to A dangerous Circumſtances att ſundry times And oc<g ref="char:EOLhyphen"/>cations, for the Proteſtant Cauſe. And now I ſuffer a Tedious Impriſon<g ref="char:EOLhyphen"/>ment, and ſeverall heavie diſtreſſes which I can Lawfully ſay I had noe neede to ſuffer as I doe, had it not beene for the Cauſe Above mentioned, and I am not Certaine that many Perſons who, profeſſeth great matters would ſuffer the tenth part of what I have done, ſo that I ſee Cleerly that they doe not meane as they doe profeſſe theſe Complaints Cannot well be taken amiſs of me, Conſidering the reaſon I have to ſpeake them. Alias? what danger Cann there Inſue In Conferring with other well affected per<g ref="char:EOLhyphen"/>ſons About my buſineſſe Therefore lett me not be blinded with ſuch ex<g ref="char:EOLhyphen"/>cuſes for it is Impoſſible to make them paſs Currant with me, Sir, I am hartily Sorrie that I mett with ſuch occations, as to prouoke me to theſe expreſſions but if you thorowly conſider all, you Cannot blame me, for God</hi>
+                     <pb n="13" facs="tcp:57990:7"/>
+                     <hi>ſake take Notice of theſe few lines and allſoe of my diſtreſſe; And Lett me know if you be Inclined to doe me a kindneſſe And let me hear your Anſwer to a priſoner, And Sir your</hi>
+                  </p>
+                  <closer>
+                     <signed>very humble Servant, <hi>John Fitz-Gerrald.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Mr. Parcust,</salute>
+                  </opener>
+                  <p>
+                     <hi>SIR, I writt to you the Laſt weeke and would not now trouble you but that I am very unwell, And have noe more hopes of Releefe, And with much <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> prevailed with the Bearer who is Steward of this</hi> Marſhalſeas <hi>to Cary this Note to you I promiſed him you would pay him which I humbly requeſt you to doe Sir I beſeech you pittie my ſickly And diſtreſſed Concluſion And allſoe lett me know if there was any thing done as to my releeſement which is all at preſent from</hi>
+                  </p>
+                  <closer>
+                     <signed>your very humble Servant <hi>John Fitz-Gerrald.</hi>
+                     </signed>
+                     <dateline>In the <hi>Marſhalſeas</hi> of <hi>South<g ref="char:EOLhyphen"/>wark</hi> 8<hi>
+                           <hi rend="sup">ber,</hi>
+                        </hi> 
+                        <date>the 24<hi rend="sup">th</hi> 1681.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Will not any man who reads theſe Letters conclude that he apprehend<g ref="char:EOLhyphen"/>ed himſelf to have got a Hank upon them, as having receiv'd great aſ<g ref="char:EOLhyphen"/>ſurances of his liberty from them upon conditions which he thought they would be unwilling to have divulg'd? For he ſeems now not ſo much to <hi>crave</hi> as to <hi>demand</hi> their Charity, and his Letter is plainly begging and menacing <hi>party per pale.</hi> For what can he be thought to deſign by thoſe expreſſions, in that to Madam <hi>Jordan,</hi> of <hi>efficacious prevailings,</hi> and <hi>it would prove Prudence,</hi> and his fear <hi>of being ſurprized unawares,</hi> and his de<g ref="char:EOLunhyphen"/>ſire <hi>of having no reaſon to ſtumble;</hi> and his knowing not <hi>what miſchief might enſue;</hi> and in one of thoſe to Mr. <hi>Parkhurſt of the great profeſſion of Religion which ſeveral perſons make,</hi> and <hi>his ſeeing clearly that they do not mean as they profeſs,</hi> and that he muſt <hi>not be blinded with ſuch ex<g ref="char:EOLhyphen"/>cuſes;</hi> how, I ſay, can all this in the connexion wherein it ſtands in his Letters be otherwiſe plainly engliſhed than thus, <q>
+                  <hi>Sir</hi> and <hi>Madam,</hi> you know very well, that you and others your Friends have been practi<g ref="char:EOLhyphen"/>cing with me, and encouraging me to perſiſt in my groundleſs accu<g ref="char:EOLhyphen"/>ſations of the three Juſtices, and have made me promiſes of procuring my Liberty if I would not reflench from my Teſtimony. My Conſci<g ref="char:EOLhyphen"/>ence indeed you did at firſt with a ſmall Fee retain, but I find daily more and more that you are, what you delight to call your ſelves, <hi>Profeſſours,</hi> and nothing elſe. And therefore I adviſe you to con<g ref="char:EOLhyphen"/>ſider that mortal man, as you know, is frail, and that if you do not ſpee<g ref="char:EOLhyphen"/>dily get me releas'd, I may poſſibly <hi>be ſurpriz'd,</hi> and be apt to <hi>ſtumble,</hi> and think my ſelf obliged to tell the whole truth of the matter.</q>
+            </p>
+            <pb n="14" facs="tcp:57990:8"/>
+            <p>Though this Repreſentation may ſeem ſomewhat comical, yet that the ſubſtance of it was the real apprehenſion of the perſons concern'd is clear from hence, that Mr. <hi>Parkhurſt</hi> was ſo terrified at the conſideration of theſe Letters, that he thought it not ſafe to conceal the matter any lon<g ref="char:EOLunhyphen"/>ger; but looking upon it to be his beſt way to <hi>cry Whore firſt,</hi> he applyes himſelf to one Mr. <hi>Farding,</hi> an ancient Inhabitant of the Burrough of <hi>Southwark,</hi> who had long had the honour of being known to theſe three Juſtices, and who though he be an avowed <hi>Presbyterian,</hi> is yet, I verily believe, a man morrally honeſt. To him Mr. <hi>Parkhurſt</hi> communicated all the foregoing Letters ſent by <hi>Fitz-Gerrald</hi> to himſelf and others; upon the reading of which Mr. <hi>Farding</hi> ſaid to him in his plain way, <q>Mr. <hi>Parkhurſt,</hi> do not believe theſe things, but rather acquaint the Ju<g ref="char:EOLhyphen"/>ſtices with them, and hear what they can ſay in their defence.</q> Ac<g ref="char:EOLhyphen"/>cordingly it was agreed upon, and in a day or two after Mr. <hi>Fard<g ref="char:EOLhyphen"/>ing</hi> accompanied Mr. <hi>Parkhurſt</hi> to Juſtice <hi>Reading,</hi> who upon peruſing all the Letters, told them that there was not a word of truth in them ſo far as concerned the Juſtices; and for their fuller ſatisfaction he pro<g ref="char:EOLhyphen"/>poſed that himſelf with the other two Juſtices his Brethren might go at the ſame time with Mr. <hi>Parkhurſt</hi> and his Friends to the Priſon, where he doubted not but they would ſoon be convinc'd of their Cor<g ref="char:EOLhyphen"/>reſpondent's Knavery. Hereupon on <hi>Friday</hi> the 28th of <hi>October,</hi> the Juſtices with moſt of the other perſons mentioned in theſe Papers, met at the <hi>Marſhalſea</hi> Priſon, where Mr. <hi>Reading</hi> ſpake to Mr. <hi>Fitz-Ger<g ref="char:EOLunhyphen"/>rald</hi> to this purpoſe.</p>
+            <p>
+               <q>Mr. <hi>Fitz-Gerrald,</hi> you know that about a Month ago, we who are the three Juſtices here, were with you to take your Informa<g ref="char:EOLhyphen"/>tion, upon a Letter you had directed to one Mr. <hi>Cooper.</hi> The Letter you did acknowledg to be your Hand-writing. Now I ask you, when we were with you, did we direct or threaten you to what you ſhould ſay? Did we put any Queſtions to you? Did we not adviſe you to ſpeak truth, and accuſe no man wrongfully? Bad you remember that God is the God of Truth, and that there is a day of Account approaching? Did we not tell you, our Deſire was that you ſhould draw up your Information your ſelf in Writing, and appoint your own time it ſhould be ready at, and at that time we would return to you? Did you not appoint the <hi>Monday</hi> following, four o'Clock in the Afternoon to be the time? Were not Mr. <hi>Daniel</hi> and my ſelf with you at that time? And did you not tell us you had not drawn your Information, neither would you be examined by us? Did you not ſay you had created a Correſpondency with Mr. <hi>Rich,</hi> and to him you would give your Information? Did we not there<g ref="char:EOLhyphen"/>upon tell you, that you might have done well to have ſaved us this Labour? For the time we were all with you, did you not ſay we were all ſtrangers to you, which made you ſo ſhy of us? Now that your Friends are come hither on purpoſe to be truly inform'd, give them a ſatisfactory account of the matter, and tell them the whole Truth.</q>
+            </p>
+            <pb n="15" facs="tcp:57990:8"/>
+            <p>
+               <hi>Fitz-Gerrald</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pauſing a while, and then ſaid that he did not mean theſe three Juſtices, but others whom <hi>Cooper</hi> told him of. But he was ſoon con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed in that, for thoſe four perſons before-mentioned, who went on the 13th of <hi>October</hi> to enform themſelves therein, teſtified that he named <hi>Reading, Daniel</hi> and <hi>Rich</hi> to be the three Juſtices he meant in his Letter. Furthermore Mr. <hi>Cooper</hi> himſelf having heard that there was to be at that time a meeting in the <hi>Marſhalſea</hi> concerning <hi>Fitz-Ger<g ref="char:EOLhyphen"/>rald,</hi> came thither, and being asked whether he had ſeen, heard of, or converſed with any of theſe Juſtices, he anſwered in the Negative; and proceeded to ſay, that it was true he had viſited Mr. <hi>Fitz-gerald</hi> upon the ſcore of a former acquaintance contracted while he was Dr. <hi>Tong</hi>'s Servant; and being with y<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u, ſays he, applying his Diſcourſe to Mr. <hi>Fitz-gerrald,</hi> you know I ſaid thus to you, <q>Sir, I am ſorry to ſee you in this condition,</q> and you made Anſwer, <q>Never worſe.</q> Then ſaid I. <q>Mr. <hi>Fitz-Gerrald,</hi> you can diſcover a great deal of the Plot, for you was very converſant with my Maſter <hi>Tonge;</hi> was I in your ſtead I would <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> what I knew, for that might be the means to get you out of Priſon;</q> you made me this Anſwer, <q>that it was the joyfulleſt News you had heard ſince you came into Priſon; and afterwards you wrote the Letter to me <hi>(viz.</hi> that mention'd in the foregoing part of this Narrative) wherein you deſired to be examined.</q> 
+               <hi>Fitz-Gerrald</hi> did not deny any thing that <hi>Cooper</hi> had ſaid; but being then called up<g ref="char:EOLhyphen"/>on to give an Anſwer to what Juſtice <hi>Reading</hi> had queſtion'd him about, he acknowledged that what he had ſaid or written of the Juſtices was all falſe, and that he had groundleſly aſperſed and traduced them. Here<g ref="char:EOLhyphen"/>upon a Gentleman there preſent asked him, <q>Why did you abuſe the Juſtices in ſuch a wicked manner, as to write that vile Letter where<g ref="char:EOLhyphen"/>in you ſay, they would have had you to reflench from your Teſti<g ref="char:EOLhyphen"/>mony of the Popiſh Plot, and help to accuſe the Proteſtants with it; for which they would releaſe you, procure a Pardon from the King, and continual maintenance?</q> To which He confidently replied, <q>He hoped thereby his Friends would have got him ſpeedily diſcharged.</q> Upon this bold Anſwer, one of the Juſtices ſaid to Mr. <hi>Slater</hi> and the other perſons there, <q>Gentlemen from this foul dealing, I ſuſpect that the man is a Popiſh Prieſt ſtill;</q> therefore, pray, ſays he to <hi>Fitz-Ger<g ref="char:EOLhyphen"/>rald,</hi> 
+               <q>Tell us what Religion you are of.</q> To which he anſwered, <q>I am a true Proteſtant.</q> The Juſtices having put all the Queſtions they thought needful in order to clear themſelves, deſired Mr. <hi>Slater,</hi> Mr. <hi>Syl<g ref="char:EOLhyphen"/>verſter</hi> or any other there, to put what Queſtions they pleaſed for their bet<g ref="char:EOLhyphen"/>ter ſatisfaction. But anſwer was made they were heartily ſorry that they had believ'd ſo much as they had done, and were very ſenſible from <hi>Fitz-Gerrald</hi>'s Letters to one and the other, and from what they heard from his own mouth, that he had been greatly abuſive; of which they would acquaint their Friends.</p>
+            <p>For once to ſtrain a courteſie, I will make bold in the names of theſe Juſtices to thank you, Gentlemen; but certainly you do not think that by ſuch a faint pretence you have made ſufficient amends for conceal<g ref="char:EOLhyphen"/>ing ſo long from them, and yet whiſpering privately among your own Party ſuch foul aſperſions caſt upon them. Pray Mr <hi>Slater,</hi> Mr. <hi>Sylve<g ref="char:EOLhyphen"/>ſter,</hi>
+               <pb n="16" facs="tcp:57990:9"/>
+and the reſt of you be pleas'd to diſperſe your ſelves to your uſu<g ref="char:EOLunhyphen"/>al haunts, the <hi>Amſterdam Coffee-Houſe, Richards, Bruens,</hi> &amp;c. and ha<g ref="char:EOLhyphen"/>ving got your wonted ſelect Congregations about you, declare plainly to them after the following manner. Truly Sirs, we have, as you know, for a conſiderable time entertained and propagated an ill opinion of three of the Kings Magiſtrates, upon the account of a Letter which you have often ſeen<g ref="char:punc">▪</g> or heard mention'd by us; but finding our ſelves for certain private reaſons lately oblig'd to enquire into the matter, and looking upon thoſe Gentlemen in a good light, we find their Repu<g ref="char:EOLhyphen"/>tations ſpotleſs, and that they are perſons perfectly innocent of any ſuch things as we told you were laid to their charge. Therefore as our boun<g ref="char:EOLhyphen"/>den duty is, we make this Declaration to diſabuſe you, and right them, asking God and thoſe Gentlemen forgiveneſs; and not only reſolving for our own part, but adviſing you our Friends, not to be forward to be<g ref="char:EOLhyphen"/>lieve or diſperſe ſcandalous Imputations laid againſt perſons in Autho<g ref="char:EOLhyphen"/>rity for the future. This till you have done, I muſt tell you that you remain deeply in arrears to thoſe Juſtices; and you will ſtill ſtand inde<g ref="char:EOLhyphen"/>bted to them for their generoſity, if they accept of this as ſatisfaction.</p>
+            <p>That what I have ſaid concerning <hi>Fitz-Gerrald</hi>'s clearing theſe Juſtices of the Imputations he before laid upon them, is true, will be fully con<g ref="char:EOLhyphen"/>firmed by the following Letter written with his own hand to Mr. <hi>Reading</hi> the very next day after theſe paſſages.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>In the <hi>Marſhalſeas</hi> of <hi>Southwark</hi> 
+                        <date>8<hi>
+                              <hi rend="sup">ber</hi>
+                           </hi> the 29th. 1681.</date>
+                     </dateline>
+                     <salute>Honoured Sir,</salute>
+                  </opener>
+                  <p>
+                     <hi>IT doth not little greiue me that I ſhould vpon Any Account giue you ſuch grounds of harbouring an opinion of falſitie of me, But I am not Able to make a ſatisfactorie Appologie In my owne vindication, But Sir finding your tender And Charitable Conſtruction of my vnſeemely proceed<g ref="char:EOLhyphen"/>ings as yeſternight debated, And Cenſured of me Accordingly, but I doe in<g ref="char:EOLhyphen"/>tend with Gods permiſſion as I ſhall though not now, give your Worſhip an ampler Account how it came to paſſe that I ſhould render my ſelfe ſoe op<g ref="char:EOLhyphen"/>robious. And ridiculous vpon Record; as I am ſo lookt vpon, but Sir, I haue noe more to penn att preſent as to that effect, but the Lord of his Infinit goodneſſe remitt you, and yours in the meaſure that you, and that I finde you are Inclinable, to paſs ſuch things, and Sir, by it I am made very miſerable, as to my preſent Condition I was neuer worſe, I therefore moſt humbly requeſt you to ſhew me ſomewhat of your good ſimpathy And ſoe far as to Conſider that I am in the deplorableſt diſtreſs that euer I was reduſt to for I haue noe manner of releefe nor noe perſon to Commi<g ref="char:EOLhyphen"/>ſerat me, ſo that I am allmoſt ſtarued, therefore Sir be pleaſd to releeue In Charitie, which is all from ever</hi>
+                  </p>
+                  <closer>
+                     <signed>Your moſt humble Servant, <hi>John Fitz-Gerrald.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <pb n="17" facs="tcp:57990:9"/>
+You ſee here that <hi>Fitz-Gerrald</hi> does in his way ask of Mr. <hi>Reading</hi> the Charity of Forgiveneſs and Alms at once; and I dare be bold to affirm that there is no Gentleman in Chriſtendom more ready to grant both than He.</p>
+            <p>I have now done my ſtory; the matter of Fact I have reported truly, and as occaſion offer'd I have remark'd impartially; deſigning not to foreſtal or prepoſſeſs the Readers Judgment, but only to ſave him the trouble of deducing inferences himſelf, by directing his thoughts to that which naturally follows from the ſeveral occurrences contained in this Narrative. I would not have the Reader think that I have employed ſo much Paper and Ink meerly to prove a beggerly Iriſh-man to be a bad Evidence. Alas! <hi>Fitz-Gerrald</hi> is a little forfeited wretch, ready at any time to mortgage his Soul to Feed and Cloath his Body. But here were Loyal Gentlemen and Magiſtrates defam'd, and they ought to be vindi<g ref="char:EOLhyphen"/>cated: and here were men of high pretences to Religion that ſecretly abetted and encouraged the foul aſperſions thrown upon them, and their practices ought to be detected. I am a man in whom of all paſſions in<g ref="char:EOLhyphen"/>cident to Humane Nature, Anger is leaſt predominant; and for that reaſon poſſibly theſe Juſtices may con me little thanks for repreſenting the Fact ſo calmly and indifferently, when it afforded ſuch plentiful mat<g ref="char:EOLhyphen"/>ter for Satyr. But the meekeſt man upon earth cannot but expreſs his re<g ref="char:EOLhyphen"/>ſentments, that perſons who appropriate to themſelves the Name of TRUE PROTESTANTS ſhould act thus contrary to the Rules of <hi>Old Heathen Honeſty:</hi> That a perſon in Publick Office ſhould on the laſt Lord Mayors Day, when a Gentleman offer'd to tell him how three Ju<g ref="char:EOLhyphen"/>ſtices his Neighbours had like to have been enſnared by an Iriſh-man, re<g ref="char:EOLhyphen"/>ply quick upon him, Sir, <q>I can ſure you the thing is true, and it is ſworn upon them, and neither Juſtice <hi>Reading,</hi> Juſtice <hi>Rich,</hi> or Juſtice <hi>Daniel, Shall</hi> be able to wipe it off from them as long as they live;</q> and, to conclude, that they who ſo loudly decry <hi>Iriſh</hi> Evidence when their own Friends are concern'd, ſhould yet ſo willingly receive and embrace <hi>Fitz Gerrald</hi>'s Teſtimony againſt Gentlemen placed in Autho<g ref="char:EOLhyphen"/>rity by His Majeſty.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
